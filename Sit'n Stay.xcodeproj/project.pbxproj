@@ -11,10 +11,23 @@
 		7D95F9EF1BF7F5BA009899DF /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 7D95F9EE1BF7F5BA009899DF /* AppDelegate.m */; };
 		7D95F9F21BF7F5BA009899DF /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 7D95F9F11BF7F5BA009899DF /* ViewController.m */; };
 		7D95F9F51BF7F5BA009899DF /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 7D95F9F31BF7F5BA009899DF /* Main.storyboard */; };
-		7D95F9F71BF7F5BA009899DF /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 7D95F9F61BF7F5BA009899DF /* Assets.xcassets */; };
 		7D95F9FA1BF7F5BA009899DF /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 7D95F9F81BF7F5BA009899DF /* LaunchScreen.storyboard */; };
 		7D95FA051BF7F5BA009899DF /* Sit_n_StayTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 7D95FA041BF7F5BA009899DF /* Sit_n_StayTests.m */; };
 		7D95FA101BF7F5BA009899DF /* Sit_n_StayUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 7D95FA0F1BF7F5BA009899DF /* Sit_n_StayUITests.m */; };
+		7D95FA2C1BF82030009899DF /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 7D95FA2B1BF82030009899DF /* Assets.xcassets */; };
+		7D95FA301BF8248B009899DF /* hound.png in Resources */ = {isa = PBXBuildFile; fileRef = 7D95FA2F1BF8248B009899DF /* hound.png */; };
+		7D95FA341BFAA23F009899DF /* Poor little dog.png in Resources */ = {isa = PBXBuildFile; fileRef = 7D95FA331BFAA23F009899DF /* Poor little dog.png */; };
+		7D95FA361C04DA7D009899DF /* sitNstayText.png in Resources */ = {isa = PBXBuildFile; fileRef = 7D95FA351C04DA7D009899DF /* sitNstayText.png */; };
+		7D95FA381C04DE2C009899DF /* logositnstay.png in Resources */ = {isa = PBXBuildFile; fileRef = 7D95FA371C04DE2C009899DF /* logositnstay.png */; };
+		7D95FA3B1C0502F1009899DF /* ViewControllerSignIn.m in Sources */ = {isa = PBXBuildFile; fileRef = 7D95FA3A1C0502F1009899DF /* ViewControllerSignIn.m */; };
+		7D95FA401C0508DC009899DF /* ViewControllerSignUp.m in Sources */ = {isa = PBXBuildFile; fileRef = 7D95FA3F1C0508DC009899DF /* ViewControllerSignUp.m */; };
+		7D95FA4C1C0910D1009899DF /* HomeTableView.m in Sources */ = {isa = PBXBuildFile; fileRef = 7D95FA4B1C0910D1009899DF /* HomeTableView.m */; };
+		7D95FA4F1C091671009899DF /* HomeTableCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 7D95FA4E1C091671009899DF /* HomeTableCell.m */; };
+		7D95FA551C0CD012009899DF /* SWRevealViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 7D95FA541C0CD012009899DF /* SWRevealViewController.m */; };
+		7D95FA581C0CD60E009899DF /* NavigationViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 7D95FA571C0CD60E009899DF /* NavigationViewController.m */; };
+		7D95FA5A1C0CD8EE009899DF /* AppIcon.appiconset in Resources */ = {isa = PBXBuildFile; fileRef = 7D95FA591C0CD8EE009899DF /* AppIcon.appiconset */; };
+		7D95FA5C1C0CEC12009899DF /* menu-rounded-solid in Resources */ = {isa = PBXBuildFile; fileRef = 7D95FA5B1C0CEC12009899DF /* menu-rounded-solid */; };
+		7D95FA641C0E8442009899DF /* settings-outline in Resources */ = {isa = PBXBuildFile; fileRef = 7D95FA631C0E8442009899DF /* settings-outline */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -42,7 +55,6 @@
 		7D95F9F01BF7F5BA009899DF /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
 		7D95F9F11BF7F5BA009899DF /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
 		7D95F9F41BF7F5BA009899DF /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
-		7D95F9F61BF7F5BA009899DF /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		7D95F9F91BF7F5BA009899DF /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		7D95F9FB1BF7F5BA009899DF /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		7D95FA001BF7F5BA009899DF /* Sit'n StayTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Sit'n StayTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -51,6 +63,26 @@
 		7D95FA0B1BF7F5BA009899DF /* Sit'n StayUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Sit'n StayUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		7D95FA0F1BF7F5BA009899DF /* Sit_n_StayUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Sit_n_StayUITests.m; sourceTree = "<group>"; };
 		7D95FA111BF7F5BA009899DF /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		7D95FA2B1BF82030009899DF /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		7D95FA2F1BF8248B009899DF /* hound.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = hound.png; sourceTree = "<group>"; };
+		7D95FA331BFAA23F009899DF /* Poor little dog.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Poor little dog.png"; sourceTree = "<group>"; };
+		7D95FA351C04DA7D009899DF /* sitNstayText.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = sitNstayText.png; sourceTree = "<group>"; };
+		7D95FA371C04DE2C009899DF /* logositnstay.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = logositnstay.png; sourceTree = "<group>"; };
+		7D95FA391C0502F1009899DF /* ViewControllerSignIn.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ViewControllerSignIn.h; sourceTree = "<group>"; };
+		7D95FA3A1C0502F1009899DF /* ViewControllerSignIn.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ViewControllerSignIn.m; sourceTree = "<group>"; };
+		7D95FA3E1C0508DC009899DF /* ViewControllerSignUp.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ViewControllerSignUp.h; sourceTree = "<group>"; };
+		7D95FA3F1C0508DC009899DF /* ViewControllerSignUp.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ViewControllerSignUp.m; sourceTree = "<group>"; };
+		7D95FA4A1C0910D1009899DF /* HomeTableView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = HomeTableView.h; sourceTree = "<group>"; };
+		7D95FA4B1C0910D1009899DF /* HomeTableView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = HomeTableView.m; sourceTree = "<group>"; };
+		7D95FA4D1C091671009899DF /* HomeTableCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = HomeTableCell.h; sourceTree = "<group>"; };
+		7D95FA4E1C091671009899DF /* HomeTableCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = HomeTableCell.m; sourceTree = "<group>"; };
+		7D95FA531C0CD012009899DF /* SWRevealViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SWRevealViewController.h; sourceTree = "<group>"; };
+		7D95FA541C0CD012009899DF /* SWRevealViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SWRevealViewController.m; sourceTree = "<group>"; };
+		7D95FA561C0CD60E009899DF /* NavigationViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = NavigationViewController.h; sourceTree = "<group>"; };
+		7D95FA571C0CD60E009899DF /* NavigationViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = NavigationViewController.m; sourceTree = "<group>"; };
+		7D95FA591C0CD8EE009899DF /* AppIcon.appiconset */ = {isa = PBXFileReference; lastKnownFileType = folder; path = AppIcon.appiconset; sourceTree = "<group>"; };
+		7D95FA5B1C0CEC12009899DF /* menu-rounded-solid */ = {isa = PBXFileReference; lastKnownFileType = folder; path = "menu-rounded-solid"; sourceTree = "<group>"; };
+		7D95FA631C0E8442009899DF /* settings-outline */ = {isa = PBXFileReference; lastKnownFileType = folder; path = "settings-outline"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -105,10 +137,12 @@
 				7D95F9EE1BF7F5BA009899DF /* AppDelegate.m */,
 				7D95F9F01BF7F5BA009899DF /* ViewController.h */,
 				7D95F9F11BF7F5BA009899DF /* ViewController.m */,
+				7D95FA3C1C0507DD009899DF /* ViewControllers1 */,
 				7D95F9F31BF7F5BA009899DF /* Main.storyboard */,
-				7D95F9F61BF7F5BA009899DF /* Assets.xcassets */,
 				7D95F9F81BF7F5BA009899DF /* LaunchScreen.storyboard */,
 				7D95F9FB1BF7F5BA009899DF /* Info.plist */,
+				7D95FA2B1BF82030009899DF /* Assets.xcassets */,
+				7D95FA3D1C050809009899DF /* Photos */,
 				7D95F9EA1BF7F5BA009899DF /* Supporting Files */,
 			);
 			path = "Sit'n Stay";
@@ -138,6 +172,39 @@
 				7D95FA111BF7F5BA009899DF /* Info.plist */,
 			);
 			path = "Sit'n StayUITests";
+			sourceTree = "<group>";
+		};
+		7D95FA3C1C0507DD009899DF /* ViewControllers1 */ = {
+			isa = PBXGroup;
+			children = (
+				7D95FA531C0CD012009899DF /* SWRevealViewController.h */,
+				7D95FA541C0CD012009899DF /* SWRevealViewController.m */,
+				7D95FA4A1C0910D1009899DF /* HomeTableView.h */,
+				7D95FA4B1C0910D1009899DF /* HomeTableView.m */,
+				7D95FA4D1C091671009899DF /* HomeTableCell.h */,
+				7D95FA4E1C091671009899DF /* HomeTableCell.m */,
+				7D95FA3E1C0508DC009899DF /* ViewControllerSignUp.h */,
+				7D95FA3F1C0508DC009899DF /* ViewControllerSignUp.m */,
+				7D95FA3A1C0502F1009899DF /* ViewControllerSignIn.m */,
+				7D95FA391C0502F1009899DF /* ViewControllerSignIn.h */,
+				7D95FA561C0CD60E009899DF /* NavigationViewController.h */,
+				7D95FA571C0CD60E009899DF /* NavigationViewController.m */,
+			);
+			name = ViewControllers1;
+			sourceTree = "<group>";
+		};
+		7D95FA3D1C050809009899DF /* Photos */ = {
+			isa = PBXGroup;
+			children = (
+				7D95FA631C0E8442009899DF /* settings-outline */,
+				7D95FA5B1C0CEC12009899DF /* menu-rounded-solid */,
+				7D95FA591C0CD8EE009899DF /* AppIcon.appiconset */,
+				7D95FA2F1BF8248B009899DF /* hound.png */,
+				7D95FA351C04DA7D009899DF /* sitNstayText.png */,
+				7D95FA331BFAA23F009899DF /* Poor little dog.png */,
+				7D95FA371C04DE2C009899DF /* logositnstay.png */,
+			);
+			name = Photos;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -246,9 +313,16 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				7D95FA5A1C0CD8EE009899DF /* AppIcon.appiconset in Resources */,
+				7D95FA2C1BF82030009899DF /* Assets.xcassets in Resources */,
 				7D95F9FA1BF7F5BA009899DF /* LaunchScreen.storyboard in Resources */,
-				7D95F9F71BF7F5BA009899DF /* Assets.xcassets in Resources */,
+				7D95FA5C1C0CEC12009899DF /* menu-rounded-solid in Resources */,
+				7D95FA341BFAA23F009899DF /* Poor little dog.png in Resources */,
+				7D95FA361C04DA7D009899DF /* sitNstayText.png in Resources */,
+				7D95FA641C0E8442009899DF /* settings-outline in Resources */,
 				7D95F9F51BF7F5BA009899DF /* Main.storyboard in Resources */,
+				7D95FA301BF8248B009899DF /* hound.png in Resources */,
+				7D95FA381C04DE2C009899DF /* logositnstay.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -273,9 +347,15 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				7D95FA401C0508DC009899DF /* ViewControllerSignUp.m in Sources */,
+				7D95FA581C0CD60E009899DF /* NavigationViewController.m in Sources */,
+				7D95FA3B1C0502F1009899DF /* ViewControllerSignIn.m in Sources */,
+				7D95FA4C1C0910D1009899DF /* HomeTableView.m in Sources */,
 				7D95F9F21BF7F5BA009899DF /* ViewController.m in Sources */,
+				7D95FA551C0CD012009899DF /* SWRevealViewController.m in Sources */,
 				7D95F9EF1BF7F5BA009899DF /* AppDelegate.m in Sources */,
 				7D95F9EC1BF7F5BA009899DF /* main.m in Sources */,
+				7D95FA4F1C091671009899DF /* HomeTableCell.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
